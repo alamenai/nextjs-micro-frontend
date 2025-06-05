@@ -1,0 +1,14 @@
+{
+  "name": "next-multi-zones",
+  "version": "1.0.0",
+  "description": "Next.js multi-zones ( micro frontend ) architecture",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ala Eddine Menai",
+  "license": "ISC"
+}
